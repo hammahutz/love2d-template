@@ -5,13 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "lua",
-            "request": "launch",
-            "name": "Debug",
-            "program": "lovec",
-            "arg": ["${workspaceFolder}/main.lua"]
-        },
-        {
             "type": "PowerShell",
             "request": "launch",
             "name": "Debug PS",

@@ -1,0 +1,21 @@
+[submodule "source/library/hump"]
+	path = source/library/hump
+	url = https://github.com/hammahutz/hump.git
+[submodule "source/library/boipushy"]
+	path = source/library/boipushy
+	url = https://github.com/hammahutz/boipushy.git
+[submodule "source/library/lurker"]
+	path = source/library/lurker
+	url = https://github.com/hammahutz/lurker.git
+[submodule "source/library/lume"]
+	path = source/library/lume
+	url = https://github.com/hammahutz/lume.git
+[submodule "source/library/Moses"]
+	path = source/library/Moses
+	url = https://github.com/hammahutz/Moses.git
+[submodule "source/library/classic"]
+	path = source/library/classic
+	url = https://github.com/hammahutz/classic.git
+[submodule "source/library/json4lua"]
+	path = source/library/json4lua
+	url = https://github.com/hammahutz/json4lua.git

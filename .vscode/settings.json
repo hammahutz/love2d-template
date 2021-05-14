@@ -1,0 +1,7 @@
+{
+    "cSpell.language": ",sv",
+    "Lua.diagnostics.globals": [
+        "love",
+        "self"
+    ]
+}
